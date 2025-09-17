@@ -32,7 +32,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/harsha-vardhan-k-003243292"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://linkedin.com/in/harsha-vardhan-k-003243292"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
   <a href="https://www.instagram.com/harshavardhnn._?igsh=MW1qcW13aWphdzN4Mw=="><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
   <a href="https://leetcode.com/u/Harsha_vardhan26/"><img src="https://skillicons.dev/icons?i=leetcode" width="45" /></a>
   <a href="mailto:hvudt26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
@@ -49,21 +49,25 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan262005&show_icons=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan262005&theme=radical" alt="streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshavardhan262005&show_icons=true&theme=radical" alt="stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=harshavardhan262005&theme=radical&hide_border=false" alt="streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan262005&layout=compact&theme=radical" alt="top-langs" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshavardhan262005&layout=compact&theme=radical" alt="top-langs" width="48%" />
 </p>
 
 ---
 
 ### 🎇 Fun Animations  
 <p align="center">
-  <img src="https://github.com/harshavardhan262005/harshavardhan262005/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/harshavardhan262005/harshavardhan262005/blob/output/snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.gif" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeependraVerma/DeependraVerma/master/assets/3D-cube.gif" width="400" />
 </p>
