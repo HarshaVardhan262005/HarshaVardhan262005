@@ -25,7 +25,7 @@
 - 👨‍💻 My Portfolio → [harshavardhan26-portfolio.netlify.app](https://harshavardhan26-portfolio.netlify.app/)  
 - 💬 Ask me about **Java | C | AI/ML | Git/GitHub**  
 - 📫 Reach me at **hvudt26@gmail.com**  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1U0uvIc3p5k_56W7X53YOTPd25bQsi-6Z/view?usp=sharing)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1WNYyZzqSG81IsTOmaOyOs54aDunhLZEX/view?usp=drive_link) 
 - ⚡ Fun fact → *I think I’m funny at cracking jokes 😆*  
 
 ---
