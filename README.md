@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 About Me  
-- 🔭 Currently learning **Spring Boot | React.js | Docker | Kubernetes | AWS**  
+- 🔭 **Spring Boot | React.js | Docker | Kubernetes | AWS | Python |Tesnorflow | PyTorch | OpenCV | Pandas | Numpy | RAG | ML/DL | Neural Networks | CNN** 
 - 👨‍💻 My Portfolio → [harshavardhan26-portfolio.netlify.app](https://harshavardhan26-portfolio.netlify.app/)  
 - 💬 Ask me about **Java | C | AI/ML | Git/GitHub**  
 - 📫 Reach me at **hvudt26@gmail.com**  
